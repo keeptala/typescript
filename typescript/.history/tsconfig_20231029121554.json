@@ -1,9 +1,0 @@
-{
-    "compilerOptions": {
-        "module": "NodeNext",
-        "moduleResolution": "Node",
-        "baseUrl": "src",
-        "outDir": "dist",
-        sour
-    }
-}
